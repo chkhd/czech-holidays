@@ -45,6 +45,7 @@
 ;;;###autoload
 (defvar czech-holidays-list
   '((holiday-fixed 1 1 "Den obnovy samostatného českého státu; Nový rok")
+    (holiday-fixed 3 28 "Velikonoční pondělí")
     (holiday-fixed 5 1 "Svátek práce")
     (holiday-fixed 5 8 "Den vítězství")
     (holiday-fixed 7 5 "Den slovanských věrozvěstů Cyrila a Metoděje")
