@@ -1,6 +1,6 @@
 # czech-holidays
 
-This package adds [Czech](https://en.wikipedia.org/wiki/Czech_Republic) holidays to the Emacs calendar.
+This package adds [Czech](https://en.wikipedia.org/wiki/Czech_Republic) public holidays to the Emacs calendar.
 
 If you have `org-agenda-include-diary` set to `t`, these will be also listed in the `org-agenda` view.
 

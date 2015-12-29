@@ -55,14 +55,14 @@
     (holiday-fixed 12 24 "Štědrý den")
     (holiday-fixed 12 25 "svátek vánoční")
     (holiday-fixed 12 26 "svátek vánoční"))
-  "List of Czech holidays.")
+  "List of Czech public holidays.")
 
 ;;;###autoload
 (mapc (lambda (d) (add-to-list 'holiday-other-holidays d t)) czech-holidays-list)
 
 ;;;###autoload
 (defun czech-holidays-add ()
-  "Add Czech holidays to Emacs calendar."
+  "Add Czech public holidays to Emacs calendar."
   (mapc (lambda (d) (add-to-list 'holiday-other-holidays d t)) czech-holidays-list))
 
 (provide 'czech-holidays)
