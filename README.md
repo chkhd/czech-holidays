@@ -1,3 +1,5 @@
+[![MELPA](https://melpa.org/packages/czech-holidays-badge.svg)](https://melpa.org/#/czech-holidays)
+
 # czech-holidays
 
 This package adds [Czech](https://en.wikipedia.org/wiki/Czech_Republic) holidays to the Emacs calendar.
