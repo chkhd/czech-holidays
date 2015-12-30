@@ -43,7 +43,6 @@
 
 ;;; Code:
 
-;;;###autoload
 (defvar czech-holidays-list
   '((holiday-fixed 1 1 "Den obnovy samostatného českého státu; Nový rok")
     (holiday-fixed 3 28 "Velikonoční pondělí")
