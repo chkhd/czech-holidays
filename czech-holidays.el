@@ -33,8 +33,8 @@
 
 ;;; This package is available on MELPA, just `M-x` `package-install`
 ;;; `czech-holidays`. If you want to install it manually, clone this
-;;; repository somewhere, add it to `load-path`, and do
-;;; `(require 'czech-holidays)`.
+;;; repository somewhere, add it to `load-path`, and add
+;;; `(require 'czech-holidays)` to `.emacs`.
 
 ;;; Configuration
 

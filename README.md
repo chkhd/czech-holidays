@@ -6,7 +6,7 @@ If you have `org-agenda-include-diary` set to `t`, these will be also listed in 
 
 # Installation
 
-This package is available on MELPA, just `M-x` `package-install` `czech-holidays`. If you want to install it manually, clone this repository somewhere, add it to `load-path`, and do `(require 'czech-holidays)`.
+This package is available on MELPA, just `M-x` `package-install` `czech-holidays`. If you want to install it manually, clone this repository somewhere, add it to `load-path`, and add `(require 'czech-holidays)` to `.emacs`.
 
 # Configuration
 
