@@ -45,6 +45,7 @@
 
 (defvar czech-holidays-list
   '((holiday-fixed 1 1 "Den obnovy samostatného českého státu; Nový rok")
+    (holiday-easter-etc -2 "Velký pátek")
     (holiday-easter-etc 1 "Velikonoční Pondělí")
     (holiday-fixed 5 1 "Svátek práce")
     (holiday-fixed 5 8 "Den vítězství")
